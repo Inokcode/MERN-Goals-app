@@ -11,3 +11,6 @@ yarn add react-router-dom
 yarn add react-icons
 
 yarn add concurrently -D
+
+yarn add axios
+yarn add react-toastify
